@@ -1,0 +1,14 @@
+﻿REPOSITORY:TAG                   SIZE      IMAGE ID
+python:3.11-slim                 188MB     6d85378d88a1
+postgres:15-alpine               392MB     09e4f20b14dd
+redis:7-alpine                   61.2MB    7aec734b2bb2
+nginx:alpine                     93.5MB    5616878291a2
+node:20-alpine                   194MB     fb4cd12c85ee
+eclipse-mosquitto:2              35.9MB    a908c65cc8e6
+hello-world:latest               25.9kB    f9078146db2e
+rabbitmq:3-management            392MB     e582c0bc7766
+traefik:v3.1                     232MB     74d72c7a1345
+grafana/grafana:11.2.0           635MB     408afb9726de
+prom/prometheus:v2.54.1          386MB     f6639335d34a
+swaggerapi/swagger-ui:v5.17.14   168MB     cb968cc70260
+registry:2                       37.4MB    a3d8aaa63ed8
